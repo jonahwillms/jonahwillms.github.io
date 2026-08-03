@@ -3,7 +3,8 @@ title: "QA Student / Medical Physics Technician | Waterloo Region Health Network
 date: 2024-09-05 - 2024-12-20
 layout: page
 ---
-<img src="../assets/img/linac.jpg" width="400">
+<img src="../assets/img/linac.jpg" width="800">
+
 Medical Physics Technician for the Medical Physics department at WRHN Midtown Cancer Centre (formerly Grand River Regional Cancer Centre). 
 
 This co-op revolved around LINACS which are linear accelerator machines used in radiation oncology to blast cancer cells with focused high energy radiation. One of my duties was to perform quality assurance on these machines every night once the clinical day was over. These machines were a true treat to work with and by far the most beutifully engineered things I have ever got the priviledge of working with. The experiments that I performed were very precise and interesting to conduct, these experiments would range from testing the calibration of the movement of the LINACs to measuring the calibration of the dose delivery (how much radiation is being delivered and how concentrated the radiation is). 
