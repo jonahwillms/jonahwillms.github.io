@@ -4,9 +4,8 @@ date: 2024-09-05 - 2024-12-20
 layout: page
 ---
 
-# QA Student / Medical Physics Technician
-**Waterloo Region Health Network (WRHN) Midtown Cancer Centre**
-*4‑month co‑op (Sept–Dec 2024)*
+# QA Student / Medical Physics Technician | Waterloo Region Health Network (WRHN) Midtown Cancer Centre | Sep - Dec 2024
+
 <p align="center">
   <img src="../assets/img/linac.jpg" width="500">
 </p>
