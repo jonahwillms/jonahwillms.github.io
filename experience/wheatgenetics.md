@@ -6,9 +6,9 @@ layout: page
 # Research Assistant | Wheat Breeding and Genetics, University of Guelph Ridgetown Campus | May - Aug 2025
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="../assets/img/wheat1.jpg" width="250">
-  <img src="../assets/img/wheat2.jpg" width="250">
-  <img src="../assets/img/wheat3.jpg" width="250">
+  <img src="../assets/img/linac.jpg" width="250">
+  <img src="../assets/img/linac.jpg" width="250">
+  <img src="../assets/img/linac.jpg" width="250">
 </div>
 
 
