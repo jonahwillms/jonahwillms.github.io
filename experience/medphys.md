@@ -4,7 +4,7 @@ date: 2024-09-05 - 2024-12-20
 layout: page
 ---
 <p align="center">
-  <img src="../assets/img/projects/star-dome.jpg" width="400">
+  <img src="../assets/img/projects/star-dome.jpg" width="500">
 </p>
 
 
