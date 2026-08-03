@@ -5,7 +5,7 @@ layout: page
 ---
 # Research Assistant | School of Optometry and Vision Science, University of Waterloo | May - Sep 2026
 <p align="center">
-  <img src="../assets/img/OIP.jpg" width="500">
+  <img src="../assets/img/OIP.jpg" height="500">
 </p>
 
 Research assistant for the Hovis Lab at the University of Waterloo. Assisting in a study examining and developing methods to test for colour vision defects intended for pilots in the Royal Canadian Airforce (RCAF). 
