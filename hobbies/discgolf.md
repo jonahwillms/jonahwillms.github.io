@@ -6,9 +6,9 @@ layout: page
 # Disc Golf
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="../assets/img/IMG_5334.jpeg" height="250">
-  <img src="../assets/img/IMG_0274.jpeg" height="250">
-  <img src="../assets/img/IMG_5328.jpg" height="250">
+  <img src="../assets/img/IMG_5400.jpeg" width="250">
+  <img src="../assets/img/IMG_3857.jpeg" width="250">
+  <img src="../assets/img/IMG_5207.jpeg" width="250">
 </div>
 
 I started playing disc golf about 2 years ago. UWaterloo has a course very close to my student house, so my roommates and I play this course very consistently. As we have gotten better, we have started playing at more courses in the area and last year me and my roommate joined our local disc golf club: Grand River Disc Golf Association. 
