@@ -3,7 +3,10 @@ title: "QA Student / Medical Physics Technician | Waterloo Region Health Network
 date: 2024-09-05 - 2024-12-20
 layout: page
 ---
-<img src="../assets/img/linac.jpg" width="800">
+<p align="center">
+  <img src="../assets/img/projects/star-dome.jpg" width="400">
+</p>
+
 
 Medical Physics Technician for the Medical Physics department at WRHN Midtown Cancer Centre (formerly Grand River Regional Cancer Centre). 
 
