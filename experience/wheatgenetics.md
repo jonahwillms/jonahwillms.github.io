@@ -3,6 +3,11 @@ title: "Research Assistant | Wheat Breeding and Genetics, University of Guelph R
 date: 2025-06-01 - 2025-08-22
 layout: page
 ---
+# Research Assistant | Wheat Breeding and Genetics, University of Guelph Ridgetown Campus | May - Aug 2025
+
+<p align="center">
+  <img src="../assets/img/linac.jpg" width="500">
+</p>
 
 Research assistant for Dr. Ljiljana Tamburic-Ilincic's group at University of Guelph Ridgetown Campus. Assisted in winter wheat breeding study with the goal of developing strains with resistance to Fusarium Head Blight (FHB) while also having ideal agronomic traits such as yield and height.
 
