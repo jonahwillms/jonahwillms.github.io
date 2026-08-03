@@ -15,4 +15,4 @@ I started playing disc golf about 2 years ago. UWaterloo has a course very close
 
 For people who don't know what disc golf is, it has the same rules as golf except instead of a bag of clubs, you have a bag of around 15 discs. The discs all fly differently which allows you to shape your shots. To help visualize this, there's a photo above of me holding one of my drivers beside one of my approach discs (you can see they look very different). Disc golf courses are often in the woods, where instead of avoiding bunkers, you are trying to squeeze your disc through tight wooded fairways.
 
-This sport has been great stress relief for me over these busy 2 years of university. The sport has also connected me with a great community of disc golf enthusiasts in the Waterloo region.
+This sport has been great stress relief for me over these busy 2 years of university. The sport has also connected me with a great community of disc golf enthusiasts in Waterloo region.
