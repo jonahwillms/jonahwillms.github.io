@@ -6,11 +6,7 @@ layout: page
 ---
 # Amateur Astronomy
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="../assets/img/IMG_5334.jpeg" height="250">
-  <img src="../assets/img/IMG_0274.jpeg" height="250">
-  <img src="../assets/img/IMG_5328.jpg" height="250">
-</div>
+
 
 I had a Celestron AstroMaster 130 5 inch reflector telescope gifted to me by my great uncle. It has taken a lot of troubleshooting, but after a few months I figured out how to properly collimate the scope, and align the GoTo feature of the telescope (though I haven't got the alignment perfect yet). 
 
