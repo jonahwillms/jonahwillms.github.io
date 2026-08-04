@@ -4,7 +4,7 @@ icon: fas fa-home
 order: 1
 ---
 
-# Welcome
+# Jonah Willms
 
 <div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
@@ -15,7 +15,7 @@ order: 1
       Explore my work in medical physics, agricultural science, and vision science.
     </p>
     <p style="text-align: center;">
-      <a href="/professionalexperience" style="font-weight: bold;">View Experience →</a>
+      <a href="/experience" style="font-weight: bold;">View Experience →</a>
     </p>
   </div>
 
