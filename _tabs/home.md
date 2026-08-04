@@ -15,7 +15,7 @@ order: 1
       Explore my work in medical physics, agricultural science, and vision science.
     </p>
     <p style="text-align: center;">
-      <a href="/experience" style="font-weight: bold;">View Experience →</a>
+      <a href="/professionalexperience" style="font-weight: bold;">View Experience →</a>
     </p>
   </div>
 
