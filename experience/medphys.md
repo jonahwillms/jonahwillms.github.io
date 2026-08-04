@@ -6,9 +6,6 @@ layout: page
 
 # QA Student / Medical Physics Technician | Waterloo Region Health Network (WRHN) Midtown Cancer Centre | Sep - Dec 2024
 
-<p align="center">
-  <img src="../assets/img/linac.jpg" width="500">
-</p>
 
 
 Medical Physics Technician for the Medical Physics department at WRHN Midtown Cancer Centre (formerly Grand River Regional Cancer Centre). 
