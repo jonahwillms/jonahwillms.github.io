@@ -3,7 +3,7 @@ title: Professional Experience
 icon: fas fa-briefcase
 order: 2
 ---
-
+# Professional Experience
 ---
 title: "Research Assistant | School of Optometry & Vision Science, University of Waterloo | 4 month co-op"
 date: 2026-06-11 - 2026-09-01
