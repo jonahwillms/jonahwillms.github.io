@@ -38,3 +38,4 @@ For people who don't know what disc golf is, it has the same rules as golf excep
 
 This sport has been great stress relief for me over these busy 2 years of university. The sport has also connected me with a great community of disc golf enthusiasts in Waterloo region.
 
+
