@@ -1,0 +1,102 @@
+.experience-wrapper {
+  padding: 40px;
+  background: #0d0d0d;
+  color: white;
+  min-height: 100vh;
+
+  /* GAP BETWEEN NAV BAR AND FIRST EXPERIENCE */
+  margin-top: 30px;
+}
+
+.experience-title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
+
+/* Card */
+.experience-card {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 25px;
+  border-radius: 14px;
+  margin-bottom: 50px; /* GAP BETWEEN EXPERIENCE CARDS */
+  backdrop-filter: blur(6px);
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.15);
+}
+
+/* Header Ribbon */
+.experience-header {
+  background: rgba(255, 255, 255, 0.12);
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-bottom: 0px; /* KEEP HEADER TIGHT TO CONTENT */
+}
+
+.experience-header h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.experience-header p {
+  margin: 4px 0;
+  font-size: 1.1rem;
+}
+
+.dates {
+  opacity: 0.8;
+}
+
+/* Images */
+.experience-images {
+  display: flex;
+  gap: 15px;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+
+.exp-img {
+  width: 260px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0, 255, 255, 0.25);
+}
+
+/* Description */
+.experience-description {
+  white-space: pre-line;
+  line-height: 1.6;
+  font-size: 1.1rem;
+  opacity: 0.95;
+}
+
+/* TOP NAV BAR */
+.top-nav {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 20px 0;
+  margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  backdrop-filter: blur(6px);
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: cyan;
+  transform: translateY(-2px);
+}
+
+
+
+
