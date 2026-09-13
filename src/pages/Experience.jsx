@@ -7,7 +7,7 @@ export default function Experience() {
       sortKey: 2027,
       title: "Undergraduate Thesis Student",
       location: "Department of Chemistry, University of Waterloo",
-      dates: "Sep – Apr 2027",
+      dates: "Sep 2026 – Apr 2027",
       images: [],
       description: `
 Undergraduate thesis student in the <a href="https://www.sychanthalab.com/" target="_blank" rel="noopener noreferrer">Sychantha Lab</a> in the Department of Chemistry at the University of Waterloo.
