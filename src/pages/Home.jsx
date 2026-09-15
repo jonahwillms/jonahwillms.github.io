@@ -11,6 +11,27 @@ export default function Home() {
         <h1 className="name">Jonah Willms</h1>
         <p className="contact">Phone: 519-591-2922</p>
         <p className="contact">Email: jpwillms@uwaterloo.ca</p>
+        <p>
+  <a 
+  href="https://www.linkedin.com/in/jonah-willms-9b1365290"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  LinkedIn
+</a>
+
+</p>
+
+<p>
+  <a 
+    href="/resume.pdf" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    Resume
+  </a>
+</p>
+
       </div>
 
       <div className="hero-art">
