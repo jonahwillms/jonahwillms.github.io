@@ -18,7 +18,7 @@ Overall, the goal of this project is mainly just to learn how to make a scraping
     },
     {
       title: "3D Modelling & Printing Protein Models",
-      images: ["/protein3d1.jpeg", "/protein3d2.jpg"], // optional
+      images: ["/protein3d1.jpeg", "/protein3d3.jpeg", "/protein3d4.jpeg", "/protein3d5.jpeg"], // optional
       description: `
 I have been working on modelling protein structures in Blender and Onshape and preparing them for 3D printing. I like to try to capture important features of the protein or complex in the 3D printed model. My first model I created was of SOD1 using 7WWT as a reference. The cool thing I wanted to try was to add magnets and allow the models to dimerize as they do in nature. The project worked out pretty well and I am really happy with it. 
 
