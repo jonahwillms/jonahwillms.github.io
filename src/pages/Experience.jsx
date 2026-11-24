@@ -22,7 +22,7 @@ I am so excited to work on this project and contribute to the incredible science
       sortKey: 2026,
       title: "Research Assistant",
       location: "School of Optometry and Vision Science, University of Waterloo",
-      dates: "May 2026 – Present",
+      dates: "May 2026 – Oct 2026",
       images: [],
       description: `
 Research assistant for the Hovis Lab at the University of Waterloo. Assisting in a study examining and developing methods to test for colour vision defects intended for pilots in the Royal Canadian Airforce (RCAF).
