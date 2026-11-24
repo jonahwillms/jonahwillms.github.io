@@ -9,7 +9,6 @@ export default function Home() {
 
       <div className="ribbon">
         <h1 className="name">Jonah Willms</h1>
-        <p className="contact">Phone: 519-591-2922</p>
         <p className="contact">Email: jpwillms@uwaterloo.ca</p>
         <p>
   <a 
