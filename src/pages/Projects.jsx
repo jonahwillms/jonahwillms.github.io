@@ -3,19 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Projects() {
   const projects = [
-    {
-      title: "Function From Sequence: UniProt Scraping Tool",
-      images: [], // optional, replace with your own images
-      description: `
-This is a side project that I am doing mainly to help with research for my undergraduate thesis project. The idea is that I want to do meta analysis of a bunch of proteins to see where proteins of unknown function sit in relation to proteins with known function. The problem is these proteins with unknown function often do not have crystal structures. My idea is to design a uniprot scraping algorithm where you put in keywords like any regular uniprot search, if a crystal structure exists, it will download that and if not it will download the AlphaFold database structure.
-
-I am working on a bunch of other stuff to ensure this tool does what I what, one of them is a redundancy filter using MMSeqs2 to ensure I don't download a bunch of nearly identical homologs that would shift the results of the analysis.
-
-I have also started to work on the analysis portion which includes sequence analysis, analysis of structural geometry, and electrostatics analysis. I also intend to add pocket analysis with fpocket and I want to try to make some sort of analysis where each structure is BLASTed and ran through Foldseek but I haven't figured out how I am going to do that yet or what statistics I want to generate from these analyses.
-
-Overall, the goal of this project is mainly just to learn how to make a scraping algorithm for uniprot and get better at structural bioinformatics. I am using AI to research syntax for different python packages/command-line tools and also to help walk me through some of the logic behind putting this tool together. However, I am writing each line of code by myself as I want to actually understand what I am building. 
-      `
-    },
+    
     {
       title: "3D Modelling & Printing Protein Models",
       images: ["/protein3d1.jpeg", "/protein3d3.jpeg", "/protein3d4.jpeg", "/protein3d5.jpeg"], // optional
@@ -26,6 +14,18 @@ The next model I am working on is lysozyme. It's intended to be used as a teachi
 
 I am a very visual person, so I love designing these models. It's really cool to hold the protein in your hands and feel how different parts of the protein lead to its structure. For example, in my SOD1 model I added its disulfide bond and you can physically feel the rigidity that the bond gives the structure.
 
+      `
+    },{
+      title: "Function From Sequence: UniProt Scraping Tool",
+      images: [], // optional, replace with your own images
+      description: `
+This is a side project that I am doing mainly to help with research for my undergraduate thesis project. The idea is that I want to do meta analysis of a bunch of proteins to see where proteins of unknown function sit in relation to proteins with known function. The problem is these proteins with unknown function often do not have crystal structures. My idea is to design a uniprot scraping algorithm where you put in keywords like any regular uniprot search, if a crystal structure exists, it will download that and if not it will download the AlphaFold database structure.
+
+I am working on a bunch of other stuff to ensure this tool does what I what, one of them is a redundancy filter using MMSeqs2 to ensure I don't download a bunch of nearly identical homologs that would shift the results of the analysis.
+
+I have also started to work on the analysis portion which includes sequence analysis, analysis of structural geometry, and electrostatics analysis. I also intend to add pocket analysis with fpocket and I want to try to make some sort of analysis where each structure is BLASTed and ran through Foldseek but I haven't figured out how I am going to do that yet or what statistics I want to generate from these analyses.
+
+Overall, the goal of this project is mainly just to learn how to make a scraping algorithm for uniprot and get better at structural bioinformatics. I am using AI to research syntax for different python packages/command-line tools and also to help walk me through some of the logic behind putting this tool together. However, I am writing each line of code by myself as I want to actually understand what I am building. 
       `
     }
   ];
